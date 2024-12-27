@@ -1,4 +1,3 @@
-Certainly! Here are the docs for the Threads application based on the information from the transcript:
 
 ---
 
