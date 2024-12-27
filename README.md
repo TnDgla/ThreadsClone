@@ -72,7 +72,7 @@ This project is structured to ensure a systematic and incremental development pr
    - **Video:** [React.js Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0)  
 2. Integrate Chakra UI for light/dark theme and responsive design.  
    - **Reading:** [Chakra UI Docs](https://chakra-ui.com/docs)  
-   - **Video:** [Chakra UI Tutorial](https://www.youtube.com/watch?v=UAwl5ypTnRc)  
+   - **Video:** [Chakra UI Tutorial](https://www.youtube.com/watch?v=EhQ0ySr38kE&list=PLkq0Mx81BL7gj7P0-PIm6QxXowwaPqgkk)  
 
 **Deliverables:**  
 - Responsive homepage with light/dark mode toggle.  
@@ -88,7 +88,7 @@ This project is structured to ensure a systematic and incremental development pr
    - **Video:** [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)  
 2. Configure MongoDB with Mongoose for data storage.  
    - **Reading:** [Mongoose Docs](https://mongoosejs.com/docs/)  
-   - **Video:** [MongoDB Setup Guide](https://www.youtube.com/watch?v=fwNox4-gsj8)  
+   - **Video:** [MongoDB Setup Guide](https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=203s)  
 
 **Deliverables:**  
 - Functional backend with user and post schemas.  
