@@ -133,7 +133,7 @@ This project is structured to ensure a systematic and incremental development pr
 **Tasks:**  
 1. Deploy the frontend and backend applications.  
    - **Reading:** [Deploying React Apps](https://vercel.com/docs)  
-   - **Video:** [Deploying MERN Apps](https://www.youtube.com/watch?v=nvHeBzOqEbg)  
+   - **Video:** [Deploying MERN Apps](https://www.youtube.com/watch?v=22Rywce_kcg&t=130s)  
 2. Test all features for bugs and optimize performance.  
    - **Reading:** [Testing in React](https://react.dev/learn/testing)  
    - **Video:** [React Testing Library Guide](https://www.youtube.com/watch?v=3e1GHCA3GP0)  
